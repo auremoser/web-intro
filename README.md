@@ -20,8 +20,8 @@ This class is for people with little to no technical experience; it will serve a
 
 ### slides + demo links
 
-* Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
-* Slides for [Part 2]() + [Code]()
+** Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
+* Slides for [Part 2](https://auremoser.github.io/web-intro-2) + [Code](https://github.com/auremoser/web-intro-2)
 * Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
 * Practice [Files and Exercises](https://github.com/auremoser/web-intro/tree/master/practice)
 
