@@ -1,6 +1,8 @@
 ## web-intro
 [curriculum] intro to web and html for Parsons: The New School
 
+![Graffiti](https://raw.githubusercontent.com/auremoser/web-intro/master/images/graf.jpg)
+
 ### description
 
 In this class, we will walk through the fundamentals of web development. We'll take you through various components of the web and how they work together. If you want to learn how to communicate better with your technical team, project partners or friends, this course is for you.
