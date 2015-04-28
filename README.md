@@ -20,10 +20,10 @@ This class is for people with little to no technical experience; it will serve a
 
 ### slides + demo links
 
-* Slides for [Part 1]() + [Code]()
+* Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
 * Slides for [Part 2]() + [Code]()
 * Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
-* Practice [Files and Exercises]()
+* Practice [Files and Exercises](https://github.com/auremoser/web-intro/tree/master/practice)
 
 ### resources
 
@@ -66,4 +66,5 @@ These resources principally follow from HTML/CSS curriculum which we may or may 
 This class comes from materials cribbed and culled from various [Girl Develop It](https://www.girldevelopit.com/) curricula. Check out our [Materials Page](https://www.girldevelopit.com/materials) to learn more!
 
 [@auremoser](twitter.com/auremoser)
+
 [aurelia@girldevelopit.com](mailto:aurelia@girldevelopit.com)
