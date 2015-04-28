@@ -20,6 +20,11 @@ This class is for people with little to no technical experience; it will serve a
 
 ### slides + demo links
 
+* Slides for [Part 1]() + [Code]()
+* Slides for [Part 2]() + [Code]()
+* Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
+* Practice [Files and Exercises]()
+
 ### resources
 
 These resources principally follow from HTML/CSS curriculum which we may or may not get to in this course. If you would like to follow through with your coding studies post-class, check out some of these resources. Here's a quick [Link Guide](https://dl.dropboxusercontent.com/u/11310464/GDI-AfterClass-Resources.pdf) as a pdf, read on for other resources!
