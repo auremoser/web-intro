@@ -1,6 +1,15 @@
 ## web-intro
 [curriculum] intro to web and html for Parsons: The New School
 
+![Graffiti](https://raw.githubusercontent.com/auremoser/web-intro/master/images/graf.jpg)
+
+### slides + demo links
+
+* Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
+* Slides for [Part 2](https://auremoser.github.io/web-intro-2) + [Code](https://github.com/auremoser/web-intro-2)
+* Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
+* Practice [Files and Exercises](https://github.com/auremoser/web-intro/tree/master/practice)
+
 ### description
 
 In this class, we will walk through the fundamentals of web development. We'll take you through various components of the web and how they work together. If you want to learn how to communicate better with your technical team, project partners or friends, this course is for you.
@@ -17,13 +26,6 @@ Topics include but are not limited to:
 *   Who does what on a typical web development team?
 
 This class is for people with little to no technical experience; it will serve as the foundation for more technical curriculum in HTML/CSS and JS.
-
-### slides + demo links
-
-* Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
-* Slides for [Part 2](https://auremoser.github.io/web-intro-2) + [Code](https://github.com/auremoser/web-intro-2)
-* Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
-* Practice [Files and Exercises](https://github.com/auremoser/web-intro/tree/master/practice)
 
 ### resources
 

@@ -40,7 +40,7 @@ body {
   font-size: 36px;
   font-weight: 200;
   letter-spacing: -0.02em;
-  color: #333333; }
+  color: #00d3bd; }
 
 ::selection {
   color: white;
@@ -57,7 +57,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #f05b62;
+  color: #d30016;
   font-family: "Gotham-Bold", Impact, sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
@@ -71,7 +71,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: #01a9b4;
+  color: #0080d3;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -80,13 +80,13 @@ body {
   transition: color .15s ease; }
 
 .reveal a:not(.image):hover {
-  color: #f9b8bb;
+  color: #00d3bd;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #01a9b4; }
+  background: #0080d3; }
 
 /*********************************************
  * IMAGES
@@ -104,7 +104,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #01a9b4;
+  border-color: #0080d3;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
@@ -112,31 +112,31 @@ body {
  *********************************************/
 .reveal .controls div.left,
 .reveal .controls div.left.enabled {
-  border-right-color: #01a9b4; }
+  border-right-color: #0080d3; }
 
 .reveal .controls div.right,
 .reveal .controls div.right.enabled {
-  border-left-color: #01a9b4; }
+  border-left-color: #0080d3; }
 
 .reveal .controls div.up,
 .reveal .controls div.up.enabled {
-  border-bottom-color: #01a9b4; }
+  border-bottom-color: #0080d3; }
 
 .reveal .controls div.down,
 .reveal .controls div.down.enabled {
-  border-top-color: #01a9b4; }
+  border-top-color: #0080d3; }
 
 .reveal .controls div.left.enabled:hover {
-  border-right-color: #f9b8bb; }
+  border-right-color: #00d3bd; }
 
 .reveal .controls div.right.enabled:hover {
-  border-left-color: #f9b8bb; }
+  border-left-color: #00d3bd; }
 
 .reveal .controls div.up.enabled:hover {
-  border-bottom-color: #f9b8bb; }
+  border-bottom-color: #00d3bd; }
 
 .reveal .controls div.down.enabled:hover {
-  border-top-color: #f9b8bb; }
+  border-top-color: #00d3bd; }
 
 /*********************************************
  * PROGRESS BAR
@@ -145,7 +145,7 @@ body {
   background: rgba(0, 0, 0, 0.2); }
 
 .reveal .progress span {
-  background: #01a9b4;
+  background: #0080d3;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
